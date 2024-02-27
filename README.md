@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kartik Shastrakar
 
-<img src="https://github.com/kartikshastrakar/portfolio_new/blob/main/coding-freak.gif" alt="Profile Picture" width="200" height="200">
+![Profile Picture](https://github.com/kartikshastrakar/portfolio_new/raw/main/coding-freak.gif)
 
 Welcome to my GitHub profile! Feel free to explore the projects, raise issues, and submit PRs. Let's collaborate and create amazing things together! 😊
 
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! Feel free to explore the projects, raise issues, a
 </p>
 
 ## Connect with Me
-- LinkedIn: [Kartik Shastrakar](https://www.linkedin.com/in/kartik-shastrakar-054783166)
+- LinkedIn: [Kartik Shastrakar](https://www.linkedin.com/in/kartik-s-054783166)
 - Email: kartikshastrakar04@gmail.com
 
 Let's innovate and build together! Happy Coding! 🚀
