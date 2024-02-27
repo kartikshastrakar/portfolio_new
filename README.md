@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kartik Shastrakar
 
-![Profile Picture](https://github.com/kartikshastrakar/portfolio_new/blob/main/coding-freak.gif)
+<img src="https://github.com/kartikshastrakar/portfolio_new/blob/main/coding-freak.gif" alt="Profile Picture" width="200" height="200">
 
 Welcome to my GitHub profile! Feel free to explore the projects, raise issues, and submit PRs. Let's collaborate and create amazing things together! 😊
 
@@ -10,7 +10,6 @@ Welcome to my GitHub profile! Feel free to explore the projects, raise issues, a
 - 💼 Actively seeking opportunities as a Data Scientist or ML/DL Engineer.
 - 📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/kartik-shastrakar-054783166) or email: kartikshastrakar04@gmail.com
 
-## "
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
