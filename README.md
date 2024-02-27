@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kartik Shastrakar
 
-![Profile Picture]()
+![Profile Picture](https://github.com/kartikshastrakar/portfolio_new/blob/main/coding-freak.gif)
 
 Welcome to my GitHub profile! Feel free to explore the projects, raise issues, and submit PRs. Let's collaborate and create amazing things together! 😊
 
