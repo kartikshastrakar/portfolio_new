@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kartik Shastrakar
 
-![Profile Picture](https://github.com/kartikshastrakar/portfolio_new/blob/main/Screenshot_20231015_213306_Instagram.jpg)
+![Profile Picture]()
 
 Welcome to my GitHub profile! Feel free to explore the projects, raise issues, and submit PRs. Let's collaborate and create amazing things together! 😊
 
